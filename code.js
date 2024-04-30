@@ -8,5 +8,5 @@ function convertToAdjList(adjMatrix) {
             }
         }
     }
-    return adjMatrix;
+    return adList;
 }
