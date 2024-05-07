@@ -21,6 +21,7 @@ So, $V$ is the total number of vertices and the function has two nested loops th
 
 
 https://www.geeksforgeeks.org/convert-adjacency-matrix-to-adjacency-list-representation-of-graph/
+https://stackoverflow.com/questions/55111120/how-to-convert-adjacency-matrix-to-adjacency-list-in-javascript
 ## Bonus
 
 Implement a function to convert an adjacency list to an adjacency matrix and
